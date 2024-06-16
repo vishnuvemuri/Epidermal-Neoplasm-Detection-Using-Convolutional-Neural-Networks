@@ -3,6 +3,8 @@
 Overview
 
 This project aims to detect epidermal neoplasms (skin tumors) using Convolutional Neural Networks (CNNs). Leveraging advanced deep learning techniques, this project provides a framework for training, evaluating, and deploying CNN models to accurately classify skin lesions from medical images. The ultimate goal is to aid in early diagnosis and treatment planning for skin cancer.
+![image](https://github.com/vishnuvemuri/Epidermal-Neoplasm-Detection-Using-Convolutional-Neural-Networks/assets/96485620/35b30287-0f5b-4068-97ab-349fef137f38)
+
 
 Features
 
@@ -98,5 +100,13 @@ Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
+
+Output:
+
+![image](https://github.com/vishnuvemuri/Epidermal-Neoplasm-Detection-Using-Convolutional-Neural-Networks/assets/96485620/0f65adb0-2454-4725-8523-d6f3ddf64e93)
+
+![image](https://github.com/vishnuvemuri/Epidermal-Neoplasm-Detection-Using-Convolutional-Neural-Networks/assets/96485620/cfd2baf2-c1ce-416b-8e76-c3fe0a3ae709)
+
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
